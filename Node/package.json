@@ -1,10 +1,10 @@
 {
-  "name": "workout",
+  "name": "node",
   "version": "1.0.0",
-  "description": "Initial working",
-  "license": "ISC",
+  "description": "Using module Es",
+  "license": " MIT",
   "author": "Subesh",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
