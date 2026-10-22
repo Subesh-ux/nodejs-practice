@@ -1,0 +1,93 @@
+
+[
+  {
+    "username": "arun",
+    "password": "Demo@1001",
+    "loginToken": "tok_demo_001",
+    "college": "Anna University Regional Campus Tirunelveli",
+    "degree": "B.E",
+    "phoneNumber": "9000000001",
+    "gender": "Male"
+  },
+  {
+    "username": "priya",
+    "password": "Demo@1002",
+    "loginToken": "tok_demo_002",
+    "college": "PSG College of Technology",
+    "degree": "B.Tech",
+    "phoneNumber": "9000000002",
+    "gender": "Female"
+  },
+  {
+    "username": "karthik",
+    "password": "Demo@1003",
+    "loginToken": "tok_demo_003",
+    "college": "Kumaraguru College of Technology",
+    "degree": "B.E",
+    "phoneNumber": "9000000003",
+    "gender": "Male"
+  },
+  {
+    "username": "divya",
+    "password": "Demo@1004",
+    "loginToken": "tok_demo_004",
+    "college": "SRM Institute of Science and Technology",
+    "degree": "B.Tech",
+    "phoneNumber": "9000000004",
+    "gender": "Female"
+  },
+  {
+    "username": "sanjay",
+    "password": "Demo@1005",
+    "loginToken": "tok_demo_005",
+    "college": "Sathyabama Institute of Science and Technology",
+    "degree": "B.E",
+    "phoneNumber": "9000000005",
+    "gender": "Male"
+  },
+  {
+    "username": "meena",
+    "password": "Demo@1006",
+    "loginToken": "tok_demo_006",
+    "college": "Thiagarajar College of Engineering",
+    "degree": "B.E",
+    "phoneNumber": "9000000006",
+    "gender": "Female"
+  },
+  {
+    "username": "vijay",
+    "password": "Demo@1007",
+    "loginToken": "tok_demo_007",
+    "college": "Rajalakshmi Engineering College",
+    "degree": "B.E",
+    "phoneNumber": "9000000007",
+    "gender": "Male"
+  },
+  {
+    "username": "nisha",
+    "password": "Demo@1008",
+    "loginToken": "tok_demo_008",
+    "college": "VIT Chennai",
+    "degree": "B.Tech",
+    "phoneNumber": "9000000008",
+    "gender": "Female"
+  },
+  {
+    "username": "rahul",
+    "password": "Demo@1009",
+    "loginToken": "tok_demo_009",
+    "college": "Kongu Engineering College",
+    "degree": "B.E",
+    "phoneNumber": "9000000009",
+    "gender": "Male"
+  },
+  {
+    "username": "monisha",
+    "password": "Demo@1010",
+    "loginToken": "tok_demo_010",
+    "college": "Vel Tech University",
+    "degree": "B.Tech",
+    "phoneNumber": "9000000010",
+    "gender": "Female"
+  }
+]

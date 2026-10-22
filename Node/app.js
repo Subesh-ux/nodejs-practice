@@ -1,5 +1,6 @@
-import ProductDetails from "./products.js"
+import { getAllUsers } from "./LoginUserTask/userModule.js";
 
-const displayDetails = ProductDetails
+const allUsers = getAllUsers()
 
-console.log("Producrs===>",displayDetails())
+// Displaying All Users
+console.log("All User List",allUsers)
