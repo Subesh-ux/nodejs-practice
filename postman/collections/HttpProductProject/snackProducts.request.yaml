@@ -1,0 +1,4 @@
+$kind: http-request
+url: localhost:8000/products/snacks
+method: GET
+order: 5000
