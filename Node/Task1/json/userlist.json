@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Arun Kumar",
+        "gender": "Male",
+        "contactNumber": "9876543210"
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "gender": "Female",
+        "contactNumber": "9876501234"
+    },
+    {
+        "id": 3,
+        "name": "Rahul Kumar",
+        "gender": "Male",
+        "contactNumber": "9876512345"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Raj",
+        "gender": "Female",
+        "contactNumber": "9876523456"
+    },
+    {
+        "id": 5,
+        "name": "Vikram Singh",
+        "gender": "Male",
+        "contactNumber": "9876534567"
+    },
+    {
+        "id": 6,
+        "name": "Divya Mohan",
+        "gender": "Female",
+        "contactNumber": "9876545678"
+    },
+    {
+        "id": 7,
+        "name": "Karthik Raj",
+        "gender": "Male",
+        "contactNumber": "9876556789"
+    },
+    {
+        "id": 8,
+        "name": "Anjali Devi",
+        "gender": "Female",
+        "contactNumber": "9876567890"
+    },
+    {
+        "id": 9,
+        "name": "Suresh Babu",
+        "gender": "Male",
+        "contactNumber": "9876578901"
+    },
+    {
+        "id": 10,
+        "name": "Meena Kumari",
+        "gender": "Female",
+        "contactNumber": "9876589012"
+    },
+    {
+        "id": 11,
+        "name": "Praveen Kumar",
+        "gender": "Male",
+        "contactNumber": "9876590123"
+    },
+    {
+        "id": 12,
+        "name": "Kavitha R",
+        "gender": "Female",
+        "contactNumber": "9876509876"
+    },
+    {
+        "id": 13,
+        "name": "Santhosh Kumar",
+        "gender": "Male",
+        "contactNumber": "9876510987"
+    },
+    {
+        "id": 14,
+        "name": "Nithya S",
+        "gender": "Female",
+        "contactNumber": "9876521098"
+    },
+    {
+        "id": 15,
+        "name": "Manoj Kumar",
+        "gender": "Male",
+        "contactNumber": "9876532109"
+    }
+]

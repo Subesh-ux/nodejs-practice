@@ -1,0 +1,4 @@
+$kind: http-request
+url: localhost:8000/Femalecustomers
+method: GET
+order: 4000

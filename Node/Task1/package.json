@@ -1,0 +1,13 @@
+{
+  "name": "FileModuleProject",
+  "version": "1.0.0",
+  "description": "practice",
+  "license": "ISC",
+  "author": "Subesh M",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  }
+}

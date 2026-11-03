@@ -1,0 +1,4 @@
+$kind: http-request
+url: localhost:8000/deleteCustomer/1
+method: DELETE
+order: 7000

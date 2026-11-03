@@ -1,0 +1,7 @@
+$kind: http-request
+url: localhost:8000/editCustomer/1
+method: PATCH
+body:
+  type: json
+  content: "{\r\n    \"name\": \"Subesh\"\r\n}"
+order: 9000

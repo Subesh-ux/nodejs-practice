@@ -1,0 +1,17 @@
+$kind: http-request
+url: localhost:8000/addCustomers
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"id\": 16,\r
+
+    \    \"name\": \"Dinesh Kumar\",\r
+
+    \    \"gender\": \"Male\",\r
+
+    \    \"contactNumber\": \"9876543219\"\r
+
+    }"
+order: 5000

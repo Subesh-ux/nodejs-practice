@@ -1,0 +1,15 @@
+$kind: http-request
+url: localhost:8000/modifyCustomer/7
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"Arun Raj\",\r
+
+    \    \"gender\": \"Male\",\r
+
+    \    \"contactNumber\": \"9123456789\"\r
+
+    }"
+order: 8000
