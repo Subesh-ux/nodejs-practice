@@ -1,4 +1,4 @@
-import Users from "../json/userlist.json" with {"type" : "json"}
+import Users from "../json/Customer.json" with {"type" : "json"}
 
 const {name  , contactNumber, gender , id} = Users
 
@@ -14,7 +14,7 @@ export const getAllCustomers = () => {
         StatusCode : 200,
         StatusMessage : "Success",
         data : customerData
-        }
+    }
 }
 
 export const getAllMaleCustomers = () =>{

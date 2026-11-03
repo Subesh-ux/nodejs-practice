@@ -1,6 +1,6 @@
 
 import http from "http"
-import Routes from "./Routes/userlist.routes.js"
+import Routes from "./Routes/customerlist.routes.js"
 
 
 const server = http.createServer( async(req,res)=>{
@@ -10,12 +10,12 @@ const server = http.createServer( async(req,res)=>{
     )
 
     try{
-         const response = await Routes(req, req.method)
+        const response = await Routes(req, req.method)
         res.write(JSON.stringify(response))
         res.end()
     }
     catch(error){
-        console.log("You have an error fix it you dumb creature.")
+        console.log("You have an error fix it.")
     }
 })
 

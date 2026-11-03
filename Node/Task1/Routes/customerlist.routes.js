@@ -1,4 +1,4 @@
-import { getAllCustomers, getAllFemaleCustomers, getAllMaleCustomers, addCustomer, searchCustomerbyId, deleteCustomer, modifyCustomer, editedCustomer } from "../module/Users.module.js";
+import { getAllCustomers, getAllFemaleCustomers, getAllMaleCustomers, addCustomer, searchCustomerbyId, deleteCustomer, modifyCustomer, editedCustomer } from "../module/Customer.module.js";
 
 export default function Routes(req, method) {
 
