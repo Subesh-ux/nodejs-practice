@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "category": "Fruit Vegetable",
+    "price": 40,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?w=400",
+    "description": "Fresh red tomatoes"
+  },
+  {
+    "id": 2,
+    "name": "Potato",
+    "category": "Root Vegetable",
+    "price": 35,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400",
+    "description": "Fresh potatoes"
+  },
+  {
+    "id": 3,
+    "name": "Carrot",
+    "category": "Root Vegetable",
+    "price": 60,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1445282768818-728615cc910a?w=400",
+    "description": "Fresh orange carrots"
+  },
+  {
+    "id": 4,
+    "name": "Onion",
+    "category": "Bulb Vegetable",
+    "price": 45,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1508747703725-719777637510?w=400",
+    "description": "Fresh red onions"
+  },
+  {
+    "id": 5,
+    "name": "Cabbage",
+    "category": "Leafy Vegetable",
+    "price": 30,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?w=400",
+    "description": "Fresh green cabbage"
+  },
+  {
+    "id": 6,
+    "name": "Cauliflower",
+    "category": "Flower Vegetable",
+    "price": 50,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1568584711271-6c929fb49c60?w=400",
+    "description": "Fresh cauliflower"
+  },
+  {
+    "id": 7,
+    "name": "Brinjal",
+    "category": "Fruit Vegetable",
+    "price": 40,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1659261200679-9a902cb0b23c?w=400",
+    "description": "Fresh purple brinjal"
+  },
+  {
+    "id": 8,
+    "name": "Green Chilli",
+    "category": "Fruit Vegetable",
+    "price": 80,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?w=400",
+    "description": "Fresh green chillies"
+  },
+  {
+    "id": 9,
+    "name": "Beetroot",
+    "category": "Root Vegetable",
+    "price": 50,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400",
+    "description": "Fresh beetroot"
+  },
+  {
+    "id": 10,
+    "name": "Ladies Finger",
+    "category": "Fruit Vegetable",
+    "price": 45,
+    "quantity": "1 kg",
+    "image": "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?w=400",
+    "description": "Fresh ladies finger"
+  }
+]
