@@ -1,11 +1,10 @@
 import express from "express"
+import { UserRoute } from "./Routing/userlist.routing.js"
+import { addUserRoute } from "./Routing/addUsers.routing.js"
 
-const server = express()
+const app = express()
+app.use(express.json())
 
-const port = 8000
-
-server.get("/",(req,res)=>{
-    res.send("/",)
-})
-
-server.listen(port,()=>console.log("The active port is",port))
+app.use("/",UserRoute)
+app.use("/users/",addUserRoute)
+app.listen(8000,()=>console.log("8000 port is currently active."))

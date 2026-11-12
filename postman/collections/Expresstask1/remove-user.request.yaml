@@ -1,0 +1,4 @@
+$kind: http-request
+url: localhost:8000/users/delete/7
+method: DELETE
+order: 3000

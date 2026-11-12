@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Subesh",
+    "email": "subesh@gmail.com",
+    "age": 21,
+    "city": "Nagercoil",
+    "role": "admin",
+    "password": "subesh123"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "email": "priya@gmail.com",
+    "age": 23,
+    "city": "Chennai",
+    "role": "user",
+    "password": "priya123"
+  },
+  {
+    "id": 3,
+    "name": "Dharshan",
+    "email": "dharshan@gmail.com",
+    "age": 22,
+    "city": "Coimbatore",
+    "role": "user",
+    "password": "dharshan123"
+  },
+  {
+    "id": 4,
+    "name": "Arun",
+    "email": "arun@gmail.com",
+    "age": 24,
+    "city": "Madurai",
+    "role": "user",
+    "password": "arun123"
+  },
+  {
+    "id": 5,
+    "name": "Karthik",
+    "email": "karthik@gmail.com",
+    "age": 25,
+    "city": "Tirunelveli",
+    "role": "user",
+    "password": "karthik123"
+  },
+  {
+    "id": 6,
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "age": 22,
+    "city": "Bangalore",
+    "role": "user",
+    "password": "rahul123"
+  },
+  {
+    "id": 7,
+    "name": "Sneha",
+    "email": "sneha@gmail.com",
+    "age": 23,
+    "city": "Chennai",
+    "role": "user",
+    "password": "sneha123"
+  },
+  {
+    "id": 8,
+    "name": "Vijay",
+    "email": "vijay@gmail.com",
+    "age": 26,
+    "city": "Trichy",
+    "role": "manager",
+    "password": "vijay123"
+  }
+]
