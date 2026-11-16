@@ -1,0 +1,23 @@
+$kind: http-request
+url: localhost:8000/books/add
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"id\": 11,\r
+
+    \    \"title\": \"The Da Vinci Code\",\r
+
+    \    \"author\": \"Dan Brown\",\r
+
+    \    \"category\": \"Mystery\",\r
+
+    \    \"price\": 429,\r
+
+    \    \"rating\": 4.7,\r
+
+    \    \"description\": \"A symbologist investigates a mysterious murder and uncovers secrets hidden in famous artworks.\"\r
+
+    }"
+order: 3000

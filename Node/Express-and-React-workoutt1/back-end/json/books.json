@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "price": 299,
+    "rating": 4.8,
+    "description": "A young shepherd travels in search of his personal legend and treasure."
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Help",
+    "price": 399,
+    "rating": 4.9,
+    "description": "Learn how small habits can create remarkable improvements in life."
+  },
+  {
+    "id": 3,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "category": "Finance",
+    "price": 349,
+    "rating": 4.6,
+    "description": "Understand financial education, investing, and wealth creation."
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": 499,
+    "rating": 4.9,
+    "description": "A young wizard discovers his magical identity and enters Hogwarts."
+  },
+  {
+    "id": 5,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "category": "Finance",
+    "price": 379,
+    "rating": 4.7,
+    "description": "Explore how people think about money, wealth, and financial decisions."
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": 450,
+    "rating": 4.8,
+    "description": "Bilbo Baggins embarks on an unexpected adventure with a group of dwarves."
+  },
+  {
+    "id": 7,
+    "title": "Ikigai",
+    "author": "Hector Garcia and Francesc Miralles",
+    "category": "Self-Help",
+    "price": 299,
+    "rating": 4.5,
+    "description": "Discover the Japanese concept of finding purpose and meaning in life."
+  },
+  {
+    "id": 8,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Thriller",
+    "price": 399,
+    "rating": 4.6,
+    "description": "A psychological thriller about a woman who stops speaking after a shocking incident."
+  },
+  {
+    "id": 9,
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "category": "Autobiography",
+    "price": 250,
+    "rating": 4.8,
+    "description": "The inspiring autobiography of India's former President and scientist."
+  },
+  {
+    "id": 10,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic",
+    "price": 199,
+    "rating": 4.4,
+    "description": "A classic novel exploring wealth, ambition, love, and the American Dream."
+  }
+]
