@@ -13,7 +13,12 @@ export default function Books() {
     }, []);
 
     return (
-        <div className="container py-4">
+        <>
+        {booklist.length === 0?(<div>
+            <h1>NO BOOKS FOUND</h1>
+        </div>)
+        :
+            (<div className="container py-4">
 
             {/* Header */}
             <div className="bg-primary text-white text-center p-4 rounded-3 mb-4">
@@ -82,6 +87,8 @@ export default function Books() {
 
             </div>
 
-        </div>
+        </div>)}
+        </>
+        
     );
 }
